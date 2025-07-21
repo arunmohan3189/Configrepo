@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 cards:
- message: "Welcome to Carss related Prod API's from File Path2"
+ message: "Welcome to Carss related Prod API's from File Path"
  contactDetails: 
   name: "Vinayaga Doe - Prod"
   email: "Vinayaga@gmaol.com"
