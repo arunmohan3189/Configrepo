@@ -2,7 +2,7 @@ build:
  version: "2.0"
 
 loan:
- message: "Welcome to Loans Related Prod API's File Path"
+ message: "Welcome to Loans Related Prod API's File Path2"
  contactDetails:
   name: "Loan Doe _ Prod"
   email: "loan@email.com"
