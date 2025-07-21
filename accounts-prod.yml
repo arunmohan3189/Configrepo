@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to Accounts related Prod API's from Server GIT Path"
+ message: "Welcome to Accounts related Prod API's from Server GIT Path productions"
  contactDetails: 
   name: "Vinayaga Doe - Prod"
   email: "{cipher}3a684085389416cb888f11c0f030eae6a59e56a1c3a18e23050513b1462fa390090338aed336fc5dbcd379ed914b30f3"
